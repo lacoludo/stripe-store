@@ -45,7 +45,7 @@
                 product.attributes.map(function(attribute) {
                   return attribute + ': ' + sku.attributes[attribute]
                 }).join(', ');
-              %>, $<%- (sku.price / 100).toFixed(2) %>
+              %>, €<%- (sku.price / 100).toFixed(2) %>
               <% if (sku.inventory.quantity === 0 || sku.inventory.value === 'out_of_stock') { %>
                 &mdash; OUT OF STOCK
               <% } else if (sku.inventory.value === 'limited') { %>

@@ -7,7 +7,7 @@
     ],
     "skus": [
       {
-        "currency": "usd",
+        "currency": "eur",
         "price": 899,
         "inventory": {
           "type": "infinite"
@@ -18,7 +18,7 @@
         }
       },
       {
-        "currency": "usd",
+        "currency": "eur",
         "price": 999,
         "inventory": {
           "type": "finite",
@@ -30,7 +30,7 @@
         }
       },
       {
-        "currency": "usd",
+        "currency": "eur",
         "price": 1099,
         "inventory": {
           "type": "bucket",
@@ -42,7 +42,7 @@
         }
       },
       {
-        "currency": "usd",
+        "currency": "eur",
         "price": 1099,
         "inventory": {
           "type": "bucket",
@@ -63,7 +63,7 @@
     ],
     "skus": [
       {
-        "currency": "usd",
+        "currency": "eur",
         "price": 2999,
         "image": "./static/products/slack_socks.png",
         "inventory": {
@@ -75,7 +75,7 @@
         }
       },
       {
-        "currency": "usd",
+        "currency": "eur",
         "price": 1999,
         "image": "./static/products/stripe_socks.jpg",
         "inventory": {
@@ -95,7 +95,7 @@
     ],
     "skus": [
       {
-        "currency": "usd",
+        "currency": "eur",
         "price": 5999,
         "inventory": {
           "type": "bucket",
