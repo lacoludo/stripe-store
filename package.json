@@ -1,8 +1,6 @@
 {
-  "name": "stripe-store-stdlib",
-  "version": "0.1.0",
-  "description": "",
-  "author": "lacoludo <email@lacoludo.com>",
+  "name": "stripe-store",
+  "version": "1.0.0",
   "main": "functions/__main__.js",
   "dependencies": {
     "async": "^2.5.0",
@@ -13,7 +11,7 @@
   "private": true,
   "stdlib": {
     "build": "faaslang",
-    "name": "lacoludo/stripe-store-stdlib",
+    "name": "lacoludo/stripe-store",
     "timeout": 10000,
     "publish": true,
     "personalize": {
